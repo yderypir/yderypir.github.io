@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yderypir.github.io/sitemap.html
+Sitemap: https://yderypir.github.io/app/sitemap.html
+Sitemap: https://yderypir.github.io/assets/sitemap.html
+Sitemap: https://yderypir.github.io/includes/sitemap.html
+Sitemap: https://yderypir.github.io/src/sitemap.html
